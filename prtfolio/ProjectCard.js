@@ -1,4 +1,5 @@
 'use client';
+
 import React from 'react';
 
 export default function ProjectCard({ title, description, category, technologies, media_url, media_type, github_link }) {
